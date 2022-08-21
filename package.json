@@ -1,6 +1,6 @@
 {
   "homepage": "http://jtculbreth.github.io/react-catfacts",
-  "name": "catfacts",
+  "name": "react-catfacts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
