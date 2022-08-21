@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-catfacts/static/css/main.5780e946.css",
+    "main.js": "/react-catfacts/static/js/main.30d12d24.js",
+    "static/js/787.829d9480.chunk.js": "/react-catfacts/static/js/787.829d9480.chunk.js",
+    "static/media/pawprint.jpeg": "/react-catfacts/static/media/pawprint.b0c393780488b7228c0b.jpeg",
+    "static/media/kitty.jpg": "/react-catfacts/static/media/kitty.ca51fbf285f13de4bf2c.jpg",
+    "index.html": "/react-catfacts/index.html",
+    "main.5780e946.css.map": "/react-catfacts/static/css/main.5780e946.css.map",
+    "main.30d12d24.js.map": "/react-catfacts/static/js/main.30d12d24.js.map",
+    "787.829d9480.chunk.js.map": "/react-catfacts/static/js/787.829d9480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5780e946.css",
+    "static/js/main.30d12d24.js"
+  ]
+}
